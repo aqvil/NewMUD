@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+newmud_data.json
+newmud_data.json.*
+logs/
+*.html
